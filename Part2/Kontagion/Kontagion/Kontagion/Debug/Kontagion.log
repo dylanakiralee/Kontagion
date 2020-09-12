@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+  StudentWorld.cpp
+C:\Users\dylan\OneDrive\Desktop\Kontagion-skeleton-windows\Kontagion\Kontagion\StudentWorld.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\dylan\OneDrive\Desktop\Kontagion-skeleton-windows\Kontagion\Kontagion\StudentWorld.cpp(296,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Kontagion.vcxproj -> C:\Users\dylan\OneDrive\Desktop\Kontagion-skeleton-windows\Kontagion\Debug\Kontagion.exe
